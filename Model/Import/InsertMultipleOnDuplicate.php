@@ -7,7 +7,7 @@
  * @author      Jakub Winkler <jwinkler@qoliber.com
  * @author      Sebastian Strojwas <sstrojwas@qoliber.com>
  * @author      Wojciech M. Wnuk <wwnuk@qoliber.com>
- * @author      Lukasz Owczarczuk <lowczarczuk@qoliber.com>
+ * @author      qoliber <info@qoliber.com>
  *
  * Special Thanks to @Ecomdev
  */
